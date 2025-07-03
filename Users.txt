@@ -1,0 +1,7 @@
+Armmiela|Female|2003-12-28|+6301291284|FARM@GMAIL.COM|Aetfawe|asegaw|asgaer|323|Philippines|Arr|$2y$10$VAihBBEUCgupzwDdL8fq1OJnKukFX4bdf/cm6/LiSEgrmacsQoTyq
+Armmiela|Female|2000-12-29|09165302022|FARM@GMAIL.COM|SPRINGTOWN|MANILA|MANILA|1101|Philippines|Hannah|$2y$10$OcIAtR2RrxzOMZ5DCmfv7.ZabwFUmi5rMj7zEPKBdaNYPZc/PRmKG
+Armmiela|||+6301291284|FARM@GMAIL.COM|Aetfawe|asegaw|asgaer|323|Philippines|Juri|$2y$10$TMLe0givnA2.xYV6DIVhfeupm1kGvl0h/KJRMM1eRYu1jJZBnHwCe
+Jhon Michael|Male|2000-12-28|0922356714|jm@GMAIL.COM|quezon|quezon|quezon|323|Philippines|Jhon|$2y$10$wXBmf7m11I.zslhyjBU6.Oe1cZQXeMPNkoMJ05iJiYL3HEDpZ/qDW
+Mark|Female|2009-12-23|09778712312|FARM@GMAIL.COM|Aetfawe|asegaw|asgaer|2011|Philippines|Mark|$2y$10$BAVU/m.rMiPJ9UmWhaadR.Vxj4fkRNGZXrTJ0AE25HQ3GxdtBZKAK
+Mark Santos|Male|2000-12-23|09673824615|mark@gmail.com|Quezon|Manila|Manila|1101|Philippines|Markie|$2y$10$b7yKEuwLVimxSSRzyVng2O0.zoicA1xrfPAGRZ4MrfrR82OoWKSby
+Beatrix Chu|Female|2000-12-12|09876543234|beatrix@gmail.com|Blumentrit|Manila|Manila|1201|Philippines|Beatrix|$2y$10$/oSMhy4UDix4tIYPSmpP.OsyIeXMDbyP/6nwJBXrEHhv5g./qbIie
